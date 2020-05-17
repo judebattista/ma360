@@ -1,0 +1,21 @@
+History
+
+Definitions
+	Zeta function
+	Riemann Hypothesis
+
+Mathematical Concepts
+	Big Picture
+		Hypothesis
+	Details of major theorems of results
+		Riemann Hypothesis - results
+		
+Examples of concepts
+
+Real world application if possible
+	Quantum Computing
+
+Current/Future research in this area
+
+Class Activity or involvement
+
